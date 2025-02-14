@@ -1,4 +1,5 @@
 =>Stock Trading Platform
+
 =>Description: This project simulates a basic stock trading platform in Java. It allows users to buy and sell stocks, view their portfolio, and check stock prices in real-time.
 
 =>Technologies Used: Java
